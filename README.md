@@ -1,2 +1,2 @@
-# Deep Q learning
- Deep Q learning self driving car implementation
+# DQN implementation for a self driving car
+
